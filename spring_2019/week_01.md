@@ -1,24 +1,19 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week, I continued to become accustomed to Phone Gap, css, and html by working on my sample project. I figured out how to adjust the position of a piece of text using
+percentages and I added a button that, when pressed, reveals a message. Unfortunately, there is a glitch that makes the background appear multiple times when I adjust the position of the text that I will try to fix this week. 
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+> This week, I plan to fix the background issue and continue to learn more about buttons and percentages by improving the sample program. Furthermore, I plan to get Max's (my teammate) website working with Phone Gap. 
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
+> The Phone Gap application hasn't been working consistently; when I try to load the files onto my phone, it doesn't finish. Before, I can continue my work, I will need to make sure I troublehoot this issue. 
 
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> NA
